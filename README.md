@@ -7,7 +7,7 @@ this a game i am creating, i am not very serious about it just a learning and te
 - tile selector 
 - lvl editor and saving lvls
 - basic player movement (jump , move , wall sliding , wall jumping , coyote jump)
-- collision editor (not every tile is collidable) [trying to figure out how to create an auto rect detection](https://gamedev.stackexchange.com/questions/129648/algorithm-for-healing-multiple-rectangles-into-a-smaller-number-of-rectangles) ]
+- collision editor (not every tile is collidable) [trying to figure out how to create an auto rect detection](https://gamedev.stackexchange.com/questions/129648/algorithm-for-healing-multiple-rectangles-into-a-smaller-number-of-rectangles) 
 
 
 
@@ -16,8 +16,8 @@ this a game i am creating, i am not very serious about it just a learning and te
 - i will comeback to this game someday somelife !), i just didn`t want to stop dev and leave it in my folders waiting and waiting..., i mean its XP
 
 ## Imgs
-![screen shot from the game](https://github.com/tee/love2d-platformer-not-finished/blob/main/Screenshot_1.png?raw=true)
-![screen shot from the game](https://github.com/tee/love2d-platformer-not-finished/blob/main/Screenshot_2.png?raw=true)
+![screen shot from the game](https://github.com/t-88/love2d-platformer-not-finished/blob/master/Screenshot_1.png)
+![screen shot from the game](https://github.com/t-88/love2d-platformer-not-finished/blob/master/Screenshot_2.png)
 
 
 ## Credit
