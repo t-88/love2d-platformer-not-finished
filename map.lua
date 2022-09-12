@@ -1,0 +1,6 @@
+
+
+TILE_SIZE = 32
+
+WIDTH = 16 * 32
+HEIGHT = 13 *32
